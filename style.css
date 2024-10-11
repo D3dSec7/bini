@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+p {
+    color: red;
+    font-family: "PT Sans", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+p:hover {
+    color: rgb(255, 0, 85);
+}
+img {
+    width: 400px;
+    height: 230px;
+    
+}
+div {
+    text-align: center;
+    display: inline-block;
+    margin: 40px;
+    margin-left: 12%;
+}
+* {
+    background-color: pink;
+}
+.aiah:hover{
+    content: url(images/aiah.jpg);
+}
+.colet:hover{
+    content: url(images/colet.jpeg);
+}
+.gwen:hover{
+    content: url(images/gwen.jpg);
+}
+.jhoanna:hover{
+    content: url(images/jhoanna.jpg);
+}
+.maloi:hover{
+    content: url(images/maloi.jpg);
+}
+.mikha:hover{
+    content: url(images/mikha.jpg);
+}
+.sheena:hover{
+    content: url(images/sheena.jpg);
+}
+.stacey:hover{
+    content: url(images/stacey.jpg);
+}
